@@ -3,7 +3,7 @@
 Olá! Meu nome é Carlos eduardo, e sou estudante de Engenharia. Atualmente, atuo como estagiário com foco em otimizar processos e explorar soluções baseadas em dados.
 
 🌱 **Interesses:**
-- Desenvolvimento de soluções inovadoras para a inspeção de EPI (Equipamento de Proteção Individual).
+- Python, IA e Automação.
 - Modelagem de dados para suporte à tomada de decisão.
 - Exploração de novas tecnologias na interface entre engenharia e finanças.
 
