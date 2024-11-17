@@ -9,7 +9,6 @@ Olá! Meu nome é Carlos eduardo, e sou estudante de Engenharia. Atualmente, atu
 
 📚 **Projetos em destaque:**
 - TCC em andamento: *"Estudo de caso da automatização e melhorias do fluxo de trabalho de empresas".*
-- Desenvolvimento de ferramentas para extração de dados.
 - Projetos de análise de dados em Python aplicados ao mercado financeiro.
 
 🚀 **Objetivo:**
