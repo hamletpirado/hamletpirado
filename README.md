@@ -1,6 +1,6 @@
 ### Sobre mim 👋
 
-Olá! Meu nome é Carlos eduardo, e sou estudante de Engenharia de Produção no Cefet\RJ. Atualmente, atuo como estagiário com foco em otimizar processos e explorar soluções baseadas em dados.
+Olá! Meu nome é Carlos eduardo, e sou estudante de Engenharia. Atualmente, atuo como estagiário com foco em otimizar processos e explorar soluções baseadas em dados.
 
 🌱 **Interesses:**
 - Desenvolvimento de soluções inovadoras para a inspeção de EPI (Equipamento de Proteção Individual).
