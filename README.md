@@ -16,4 +16,4 @@ Olá! Meu nome é Carlos eduardo, e sou estudante de Engenharia. Atualmente, atu
 Aprimorar minhas habilidades em engenharia, tecnologia e dados para contribuir com projetos que gerem impacto real e valor sustentável.
 
 📬 **Contato:**
-- [LinkedIn](#) | [E-mail](https://www.linkedin.com/in/carlos-eduardo-nascimento-a15239270/)
+- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-nascimento-a15239270/) |
